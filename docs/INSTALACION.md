@@ -35,7 +35,7 @@ Crear un archivo `.env.local` en la raíz de `talanquera-frontend` con las sigui
 ```bash
 NEXT_PUBLIC_SANITY_PROJECT_ID=tu_id_de_proyecto
 NEXT_PUBLIC_SANITY_DATASET=production
-SANITY_API_WRITE_TOKEN=tu_token_generado
+SANITY_API_TOKEN=tu_token_generado
 
 ```
 ---
